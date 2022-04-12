@@ -204,15 +204,15 @@ form label {
 
 .btn-lolz:hover, .btn-lolz:active, .btn-lolz:focus {
   outline: none !important;
-  -webkit-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
-  -moz-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
-  box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
+  -webkit-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #00BA78aa;
+  -moz-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #00BA78aa;
+  box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #00BA78aa;
 }
 
 .btn-lolz {
   background: none;
   color: #00BA78;
-  border: 2px solid ##00BA78F2;
+  border: 2px solid #00BA7888;
 }
 
 .btn-white {
