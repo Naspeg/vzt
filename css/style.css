@@ -202,6 +202,18 @@ form label {
   box-shadow: inset 0px 0px 15px 0px #ffffffaa, 0px 0px 15px 0px #ffffffaa;
 }
 
+.btn-lolz:hover, .btn-lolz:active, .btn-lolz:focus {
+  outline: none !important;
+  -webkit-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
+  -moz-box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
+  box-shadow: inset 0px 0px 15px 0px #00BA78aa, 0px 0px 15px 0px #ffffffaa;
+}
+
+.btn-lolz {
+  background: none;
+  color: #00BA78;
+  border: 2px solid ##00BA78F2;
+}
 
 .btn-white {
   background: none;
